@@ -48,7 +48,7 @@ Gamedig.query({
       msg.edit(embed)
   })
 });
-}, 5000) // the status bot will update every 5 seconds. If you want it to update every 10 seconds it would be 10000
+}, 5000) // This time is in ms and 1000ms = 1s, so this status is updated every 5seconds
 })
 
 client.login('tokenhere')
