@@ -1,3 +1,6 @@
+**THIS BOT IS NO LONGER MAINTAINED NOR SUPPORTED (It will still work)**
+
+
 # FiveM-Server-Status-Bot
 Simple live status bot that displays server info.
 
